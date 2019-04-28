@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Toko Go</string>
+    <string name="daftar">Daftar</string>
+    <string name="punya_akun">Sudah punya akun ?</string>
+    <string name="masuk">Masuk</string>
+    <string name="nama_toko">Nama Toko</string>
+    <string name="username">Username</string>
+    <string name="nama">Nama</string>
+    <string name="konfirmasi_sandi">Konfirmasi Kata Sandi</string>
+    <string name="kata_sandi">Kata Sandi</string>
+    <string name="login">Login</string>
+</resources>

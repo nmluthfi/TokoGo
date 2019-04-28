@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "218282049703",
+    "firebase_url": "https://todofirebase-514f5.firebaseio.com",
+    "project_id": "todofirebase-514f5",
+    "storage_bucket": "todofirebase-514f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218282049703:android:d45c214691cae43c",
+        "android_client_info": {
+          "package_name": "com.example.hariswedira.todofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218282049703-le4u939r2lieves1a7hkhl7cm4ckp202.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hariswedira.todofirebase",
+            "certificate_hash": "f30a9795aac70ecd7f5cdd3c593291a18b3b9c8e"
+          }
+        },
+        {
+          "client_id": "218282049703-diikdqrhmo4eb51l75vtuni8a943gesc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARO9xGqKLwO-cr959lg1Uin5AlWHcnRbM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218282049703-diikdqrhmo4eb51l75vtuni8a943gesc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
